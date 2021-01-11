@@ -4,7 +4,7 @@
 
 * Python 3 / jupyter
 * Accept competition rules on Kaggle's competition [webpage](https://www.kaggle.com/c/riiid-test-answer-prediction).
-* Download the data to current directory
+* Download the data to current directory.
 
 ## Installation
 
