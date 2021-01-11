@@ -7,6 +7,7 @@ A transformer model and a LightGBM model to predict students' success. The trans
 * Python 3 / jupyter
 * Accept competition rules on Kaggle's competition [webpage](https://www.kaggle.com/c/riiid-test-answer-prediction).
 * Download the data from the competition wepage to current directory.
+* GPU for the transformer model (recommended)
 
 ## Installation
 
